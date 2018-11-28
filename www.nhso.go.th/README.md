@@ -1,0 +1,1 @@
+This is a simple knowledge base for Thai language bot service. You can contribute to add more KB and send email to Yod@facgure.com to inform to retrain the bot. Try to ask the bot at https://m.me/572673533190843
